@@ -28,19 +28,9 @@ This project is dedicated to predicting the quality of Portuguese wines using ph
 ## Conclusion
 The use of RandomForest after establishing a baseline with Logistic Regression demonstrates a structured and effective approach to predicting wine quality based on physicochemical data. This project highlights the capabilities of machine learning in enhancing predictive accuracy and offers a replicable methodology for similar analytical tasks.
 
-## How to Use
-- Clone the repository and navigate to the project directory.
-- Install required dependencies.
-- Run the Jupyter notebook to train the models and generate predictions.
-
 ## Dependencies
 - Python 3
 - Pandas
 - Scikit-learn
 - Jupyter
 
-## Contributors
-- [Your Name or GitHub Username]
-
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
